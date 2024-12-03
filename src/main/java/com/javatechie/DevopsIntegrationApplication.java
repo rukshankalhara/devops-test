@@ -11,7 +11,7 @@ public class DevopsIntegrationApplication {
 
 	@GetMapping
 	public String message(){
-		return "welcome to Test-Web-3";
+		return "welcome to Test-Web-4";
 	}
 
 	public static void main(String[] args) {
