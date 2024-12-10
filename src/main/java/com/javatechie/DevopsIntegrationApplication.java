@@ -11,7 +11,7 @@ public class DevopsIntegrationApplication {
 
 	@GetMapping
 	public String message(){
-		return "MITESP";
+		return "MITESP-Test";
 	}
 
 	public static void main(String[] args) {
